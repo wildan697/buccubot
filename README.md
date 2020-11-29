@@ -1,4 +1,4 @@
-# 👾AR15BOT👾
+# 👾DAENG BOT👾
 BOT WHATSAPP TERMUX ONLY BY ARIS187 ID
 
 ### Alat dan Bahan
@@ -21,15 +21,15 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/A187ID/AR15BOT
-> cd AR15BOT
+> git clone https://github.com/wildan697/buccubot
+> cd buccubot
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
 ```
 
 ## Features
 
-| AR15BOT      |                   Feature        |
+| ⚔️ᷱ🛡️🅳🅰🅴🅽🅶 🅲🆈🅱🅴🆁🛡️ᷧ⚔️ᷱ      |                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
@@ -68,7 +68,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 Ket: Aktiv 24 jam
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (ARIS187 ID)
+BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (Daeng Wildan)
 
 ## WARNING
 Jangan ubah ubah info, Hargai Karya orang lain bro
@@ -77,5 +77,5 @@ jangan cuman modal nama doang
 ## Sosial Media Admin
 * [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
 * [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+* [`WhatsApp Admin `](https://Number(+6282188216752)
 
