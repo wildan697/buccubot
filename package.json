@@ -1,5 +1,5 @@
 {
-  "name": "AR15BOT",
+  "name": "buccubot",
   "version": "1.0.0",
   "description": "Termux only",
   "main": "index.js",
@@ -29,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aris187id/AR15BOT.git"
+    "url": "git+https://github.com/wildan697/buccubot"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Muhammad Wildan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aris187id/AR15BOT/issues"
+    "url": "https://github.com/wildan697/buccubot/issues"
   },
-  "homepage": "https://github.com/aris187id/AR15BOT#readme"
+  "homepage": "https://github.com/wildan697/buccubot#readme"
 }
