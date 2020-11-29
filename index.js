@@ -8,7 +8,7 @@
 * ⚔️ᷱ🛡️🅳🅰🅴🅽🅶 🅲🆈🅱🅴🆁🛡️ᷧ⚔️ᷱ
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A714 = '👾AR15BOT👾'; // JANGAN UBAH-UBAH INFO!!!
+const A714 = '👾BuccuBot👾'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://instagram.com/_iddang697.ig'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = 'Wa.me/+6281242897136'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
