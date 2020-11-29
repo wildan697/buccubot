@@ -1,20 +1,20 @@
 /*
 * JANGAN UBAH-UBAH INFO!!!
 * "JANGAN MODAL NAMA DOANG BRO!!!"
-* SCRIPT BY ARIS187 ID
+* SCRIPT BY *Muhammad Wildan*
 * JANGAN MODAL NAMA DOANG BOSQ
 * HARGAILAH YY MEMBUAT SCRIPT INI BOSQ
 * JANGAN UBAH-UBAH INFO!!!
-* ARIS187 ID
+* ⚔️ᷱ🛡️🅳🅰🅴🅽🅶 🅲🆈🅱🅴🆁🛡️ᷧ⚔️ᷱ
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = '👾AR15BOT👾'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/_sadboy.ig'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+6285722553839'; // JANGAN UBAH-UBAH INFO!!!
+const A714 = '👾AR15BOT👾'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'https://instagram.com/_iddang697.ig'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = 'Wa.me/+6281242897136'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; // JANGAN UBAH-UBAH INFO!!!
+const groupwhatsapp = 'https://chat.whatsapp.com/C2JrSuj7tkmLT6Rs1XfWW3'; // JANGAN UBAH-UBAH INFO!!!
 const youtube = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; // JANGAN UBAH-UBAH INFO!!!
-//A187ID
+//BuccuBot
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
 const cheerio = require("cheerio");
@@ -58,7 +58,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] AR15BOT ready scan now!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] BuccuBot ready scan now!`);
 });
 
 conn.on('credentials-updated', () =>
@@ -88,7 +88,7 @@ conn.on('message-new', async(m) =>
    const messageType = Object.keys(messageContent)[0] // message will always contain one key signifying what kind of message
    let imageMessage = m.message.imageMessage;
    console.log(`[ ${moment().format("HH:mm:ss")} ] => Nomor: [ ${id.split("@s.whatsapp.net")[0]} ] => ${text}`);
-   //GroupsA187ID
+   //GroupDaeng
 
 if (text.includes("#buatgrup"))
    {
@@ -950,7 +950,7 @@ if (text.includes("#alay")){
 	})
 }
 
-//Tolonglah bro jangan di ubah ubah Aris187 ID
+//Tolonglah bro jangan di ubah 🏴‍☠️ᷧ⚔️ᷱ🛡️🅳🅰🅴🅽🅶 🅲🆈🅱🅴🆁🛡️ᷧ⚔️
 
 
 })
