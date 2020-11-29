@@ -28,7 +28,7 @@ const imageToBase64 = require('image-to-base64');
 const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
-//A187ID
+//Wildan
 const
 {
    WAConnection,
